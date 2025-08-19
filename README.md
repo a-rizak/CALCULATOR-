@@ -25,3 +25,24 @@ Supports basic arithmetic operations, parentheses, decimals, keyboard input, and
 ---
 
 ## 📂 Project Structure
+---
+
+## 🛠 Technologies Used
+- **HTML5**
+- **CSS3** (Flexbox, Grid, Glassmorphism)
+- **Vanilla JavaScript (ES6)**
+
+---
+
+## 📸 Screenshot
+![Calculator Screenshot](https://via.placeholder.com/600x400.png?text=Black+Calculator+UI)
+
+---
+
+## 📌 How to Run Locally
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/black-calculator.git
+
+
+   
